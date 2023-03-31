@@ -5,7 +5,7 @@ Welcome to my web! I am excited to have you here and hope you enjoy your browsin
 
 ## **Getting Started**
 
-To start browsing our web, simply type [https://habtamutesfayeact.github.io/movie/index.html](https://habtamutesfayeact.github.io/movie/index.html) and press enter. Once you arrive on our homepage, you will be greeted with a clean, simple design that is easy to navigate. Our homepage features a menu bar at the top, which provides links to all of the different sections of the web
+To start browsing our my, simply type [https://habtamutesfayeact.github.io/movie/index.html](https://habtamutesfayeact.github.io/movie/index.html) and press enter. Once you arrive on our homepage, you will be greeted with a clean, simple design that is easy to navigate. Our homepage features a menu bar at the top, which provides links to all of the different sections of the web
 
 ## Navigation
 
