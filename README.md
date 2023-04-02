@@ -31,7 +31,7 @@ Finally, the code defines a **`fetchSeries()`** function that fetches data from 
 
 T**he second javascript file named detail.js working with detail.html**
 
-Overall, this code provides a simple interface for browsing and viewing details of movies and TV shows, and related content based on the **`movieId`**, **`seriesId`**, and **`val`** parameters.
+The javascript  code provides a simple interface for browsing and viewing details of movies and TV shows, and related content based on the **`movieId`**, **`seriesId`**, and **`val`** parameters.
 
 The **`Movie()`** function is used to create a new **`div`** element for each related movie or TV show, add an **`img`** element with the **`src`** set to the **`poster_path`** property, and a **`p`** element with the movie or TV show title. It also adds a **`click`** event listener to the **`div`** element that redirects the user to the **`detail.html`** or **`seriesDetail.html`** page with the corresponding **`movieId`** or **`seriesId`** parameter.
 
